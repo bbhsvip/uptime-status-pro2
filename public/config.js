@@ -13,7 +13,7 @@ window.Config = {
   CountDays: 60,
 
   // 是否显示检测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 背景图片
   Image: 'https://ps.ssl.qhmsg.com/t0200ce14e175af6dcf.jpg',
