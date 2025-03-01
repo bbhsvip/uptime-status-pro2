@@ -1,16 +1,16 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'wwqq网络空间监控',
+  SiteName: '寒舍网络空间监控站',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2848432-31a285b48d16eb00e84e37ad',
+    'ur2849219-0ed7f0771e018195a25ff488',
   ],
 
   // 日志天数
-  CountDays: 30,
+  CountDays: 60,
 
   // 是否显示检测站点的链接
   ShowLink: true,
